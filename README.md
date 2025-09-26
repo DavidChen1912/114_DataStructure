@@ -17,4 +17,4 @@ Through this course, I gained a deeper understanding of:
 
 ### Repository Structure
 
-All assignments are placed inside the **`student/`** directory to avoid conflicts when pulling or pushing updates from the TA’s repository.
+All assignments are placed inside the [`/student`](./student) directory to avoid conflicts when pulling or pushing updates from the TA’s repository.
