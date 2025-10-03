@@ -1,9 +1,10 @@
 # Data Structure (Academic Year 114)
 
-This repository documents my assignments and projects completed during the **Data Structure course (Academic Year 114)**.  
+This repository documents my assignments and projects completed during the **Data Structure course (Academic Year 114)**. Through this course, I gained hands-on experience with fundamental data structures and their applications in problem-solving. 
 
-Through this course, I gained hands-on experience with fundamental data structures and their applications in problem-solving. Key topics covered include:
+---
 
+Key topics covered include:
 - Arrays and linked lists  
 - Stacks and queues  
 - Hash tables  
